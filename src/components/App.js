@@ -8,7 +8,7 @@ import Skills from '../pages/skills.js';
 import Footer from '../components/footer.js';
 import Contact from '../pages/contact.js';
 import Fade from 'react-reveal/Fade';
-import Blogs from '../pages/Blogs.js';
+import Certifications from '../pages/certifications.js';
 
 class App extends Component {
   render() {
@@ -39,7 +39,7 @@ class App extends Component {
       </Fade>
       <About />
       <Skills />
-      <Blogs />
+      <Certifications />
       <Contact/>
       <Footer />
     </div>
