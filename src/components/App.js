@@ -39,7 +39,7 @@ class App extends Component {
       </Fade>
       <About />
       <Skills />
-      <Certifications />
+      <Blogs />
       <Contact/>
       <Footer />
     </div>
