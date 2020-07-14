@@ -10,11 +10,11 @@ import Flip from 'react-reveal/Flip';
         // </a>
 
         //BEWARE! This link will lead you to a geek's thoughts.
-        
+
         <div className="cont">
             <Flip cascade>
                 <h4 className="intro1"> Designed and Developed by</h4>
-                <h4 className="intro1"> Eshaan Khurana </h4>
+                <h4 className="intro1"> Mitusha Arya </h4>
                 <h4 className="intro1"> © 2020</h4>
             </Flip>
         </div>
