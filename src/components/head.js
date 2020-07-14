@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet'
 
 const Head = () => {
     return(
-        <Helmet title="Eshaan Khurana | Portfolio"/>
+        <Helmet title="Mitusha | Portfolio"/>
     )
 }
 
