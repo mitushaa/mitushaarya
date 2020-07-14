@@ -4,21 +4,21 @@ body {
     display: flex;
     justify-content: center;
     animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1; 
-    animation-fill-mode: forwards; 
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
     scroll-behavior: smooth;
-   
-    
-    @keyframes fadeInAnimation { 
-      0% { 
-          opacity: 0; 
-      } 
-      100% { 
-          opacity: 1; 
-      } 
-    } 
+
+
+    @keyframes fadeInAnimation {
+      0% {
+          opacity: 0;
+      }
+      100% {
+          opacity: 1;
+      }
+    }
   }
-  
+
   h1,h2,h3,h4,h5,h6 {
     margin-left: 0;
     margin-right: 0;
@@ -111,7 +111,7 @@ article {
 
 
   .arrow-link {
-    color: #de3c69; 
+    color: #de3c69;
     //background-color: #0a192f;
     font-weight: bold;
     border: #de3c69;
@@ -127,12 +127,12 @@ article {
     transition: all .3s ease-in-out;
 
     background-color: #0a192f;
-    color: #de3c69; 
+    color: #de3c69;
     border: 2px solid #de3c69;
 
     @media only screen and (max-width: 600px) {
-      
-      
+
+
       padding: 8px 18px;
       margin-top: 20px;
       font-size: 12px;
@@ -192,7 +192,7 @@ article {
   margin-top: -10px;
   font-size: 4rem;
   color: #a6bdbf;
-  
+
   @media only screen and (max-width: 600px) {
     font-size: 2.1rem;
   }
@@ -229,7 +229,7 @@ article {
   filter: drop-shadow(5px 5px 5px #222);
   display: inline-block;
   vertical-align : middle;
-  width: 200px;
+  width: 296px;
   margin-bottom: 450px;
 
     @media only screen and (max-width: 600px) {
@@ -252,11 +252,11 @@ article {
     font-size: 1.8rem;
 
     @media only screen and (max-width: 600px) {
-      
+
       font-size: 1.5rem;
     }
   }
-  
+
   @keyframes wave-animation {
       0% { transform: rotate(  0.0deg) }
      10% { transform: rotate(-10.0deg) }    /* The following four values can be played with to make the waving more or less extreme */
