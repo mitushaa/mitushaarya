@@ -44,12 +44,11 @@ class Navbar extends Component {
                 <label className="menu-icon" htmlFor="menu-btn"><span className="navicon"></span></label>
                 <ul className="menu">
                 <Fade right>
-                    <li> <a className="ind" href="#about-page"> About Me </a> </li>
-                    <li> <a className="ind" href="#skill-top"> Skills</a> </li>
-                    <li> <a className="ind" href="#cert-page"> My Cert.</a> </li>
-                    <li> <a className="ind" href="#Contact-section"> Contact Me</a> </li>
-                    <li> <a className="ind" href="#Contact-section"> Contact Me</a> </li>
-                    <li> <a className="ind" href="#Contact-section"> Contact Me</a> </li>
+                    <li> <a className="ind" href="#about-page">About Me</a> </li>
+                    <li> <a className="ind" href="#skill-top">Achievements</a> </li>
+                    <li> <a className="ind" href="#cert-page">Blogs</a> </li>
+                    <li> <a className="ind" href="#Contact-section">Skill Sets</a> </li>
+                    <li> <a className="ind" href="#Contact-section">Certificate</a> </li>
                     <li> <a className="ind" href="#Contact-section"> Contact Me</a> </li>
 
 
