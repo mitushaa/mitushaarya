@@ -1,4 +1,4 @@
-import React, { Component } from 'react';                              
+import React, { Component } from 'react';
 import '../styles/App.scss';
 import Head from './head.js';
 import Navbar from './navbar.js';
@@ -20,7 +20,7 @@ class App extends Component {
         <Fade bottom>
         <h4 className="intro"> <span className="animate-hand" role="img" aria-label="hand-wave">👋</span> Hi, my name is </h4>
         <Fade bottom cascade>
-        <h2 className="name">Eshaan Khurana.</h2>
+        <h2 className="name">Mitusha Arya</h2>
         </Fade>
         <h2 className="aftername"> I build amazing experiences.</h2>
         <h4 className="desc">I'm a Full Stack Web Developer, Specializing in Front-End Development and Design..
@@ -33,7 +33,7 @@ class App extends Component {
           </button>
         </p>
         </Fade>
-      </article> 
+      </article>
       <Fade bottom>
       <img className="myavatar" src = {avatar} alt="Avatar"/>
       </Fade>
