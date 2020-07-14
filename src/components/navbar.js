@@ -50,9 +50,7 @@ class Navbar extends Component {
                     <li> <a className="ind" href="#Contact-section">Skill Sets</a> </li>
                     <li> <a className="ind" href="#Contact-section">Certificate</a> </li>
                     <li> <a className="ind" href="#Contact-section"> Contact Me</a> </li>
-                    /*<button className="resume" target="_blank" rel="noopener noreferrer">
-                                       <li> <a className="res" href={Resume} target="_blank" rel="noopener noreferrer"> Resume</a> </li>
-                                       </button>*/
+
 
                 </Fade>
                 </ul>
