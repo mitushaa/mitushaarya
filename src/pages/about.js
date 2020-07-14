@@ -10,7 +10,7 @@ class About extends Component {
         <div id="about-page">
             <div className="contain1">
             <Fade bottom>
-                <h3 className="heading"> <a className="number-about" href=" ">01. </a>Achievements</h3>
+                <h3 className="heading"> <a className="number-about" href=" ">01. </a>About me</h3>
                 <h4 className="about-me-bold"> Hello! I am Eshaan Khurana. </h4>
                 <h4 className="about-me-bold"> I am a developer leaning towards front end web development and design..</h4>
                 <h4 className="about-me"> I am currently a 3rd year Undergraduate (2018-22) at <a className="bold-blue" href=" ">Indian Institute of Information Technology, Vadodara </a>pursuing B. Tech. in Information Technology.

@@ -1,32 +1,43 @@
 {
-  "name": "mitushaarya",
-  "version": "1.0.0",
+  "name": "portfolio",
+  "version": "0.1.0",
   "private": true,
-  "description": "<p align=\"center\">\r   <img width=\"65\" height=\"110\" src=\"/src/images/logo-blue.png\" alt=\"My Logo\">\r </p>\r <h1 align=\"center\"> <strong> Eshaan Khurana </strong> </h1>",
-  "main": "index.js",
-
-
   "dependencies": {
-    "gh-pages": "^3.1.0",
-    "node-github-pages": "^0.1.1",
-    "nodejs-latest": "^1.1.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "caniuse-lite": "^1.0.30001087",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0",
+    "react-reveal": "^1.2.2",
+    "react-rotating-text": "^1.4.1",
+    "react-scripts": "^3.4.1",
+    "simple-flexbox": "^2.3.1"
   },
-  "devDependencies": {},
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mitushaa/mitushaarya.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mitushaa/mitushaarya/issues"
-  },
-  "homepage": "https://github.com/mitushaa/mitushaarya#readme"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
