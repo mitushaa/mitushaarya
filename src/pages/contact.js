@@ -6,6 +6,8 @@ import gmail from '../images/gmail.png';
 import linkedin from '../images/linkedin.png';
 import medium from '../images/medium.png';
 import twitter from '../images/twitter.png';
+import quora from '../images/quora.png';
+
 
 class Contact extends Component {
     render() {
