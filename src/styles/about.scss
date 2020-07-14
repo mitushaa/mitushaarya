@@ -10,18 +10,18 @@
     font-size: 2rem;
     font-family: 'Roboto Mono', monospace;
     animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1; 
-    animation-fill-mode: forwards; 
-   
-    @keyframes fadeInAnimation { 
-      0% { 
-          opacity: 0; 
-      } 
-      100% { 
-          opacity: 1; 
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+    @keyframes fadeInAnimation {
+      0% {
+          opacity: 0;
       }
-    } 
-  
+      100% {
+          opacity: 1;
+      }
+    }
+
     @media only screen and (max-width: 600px) {
       font-size: 1.7rem;
       margin-top: 0px;
@@ -33,7 +33,7 @@
 
     .number-about {
         font-size: 1.4rem;
-        color: #007fff;
+        color: #de3c69;
     }
 }
 
@@ -45,7 +45,7 @@
     font-size: 23px;
     max-width: 600px;
     margin-inline-end: 100px;
-    
+
     @media only screen and (max-width: 600px) {
         font-size: 17px;
        // margin-inline-end: 0px;
@@ -94,7 +94,7 @@
   }
 
 .me {
-  
+
     display: inline-block;
     vertical-align : 30px;
     width: 300px;
@@ -110,7 +110,7 @@
 }
 
 .bold-blue {
-    color: #007fff;
+    color: #de3c69;
     font-family: "Source Sans Pro", sans-serif;
     text-decoration: none;
     font-weight: bold;

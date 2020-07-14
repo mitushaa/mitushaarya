@@ -28,7 +28,7 @@
 //         color: #a6bdbf;
 
 //     &:hover {
-//         color: #007FFF;
+//         color: #de3c69;
 //     }
 // }
 
@@ -37,7 +37,7 @@ a {
     font-family: 'Roboto Mono', monospace;
 
     &:hover {
-        color: #007fff;    
+        color: #de3c69;    
     }
 
   }
@@ -201,9 +201,9 @@ a {
   
 
   .resume {
-    color: #007FFF; 
+    color: #de3c69; 
     font-weight: bold;
-    border: #007FFF;
+    border: #de3c69;
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     text-decoration: none;
@@ -211,8 +211,8 @@ a {
     cursor: pointer;
 
     background-color: #0a192f;
-    color: #007FFF; 
-    border: 2px solid #007FFF;
+    color: #de3c69; 
+    border: 2px solid #de3c69;
     border-radius: 4px;
     transition: all .3s ease-in-out;
 
@@ -224,8 +224,8 @@ a {
     &:after {
       position: relative;
       bottom: 0.2ex;
-      border: 2px solid #007FFF;
-      color: #007fff;
+      border: 2px solid #de3c69;
+      color: #de3c69;
       font-family: "FontAwesome";
       font-size: 1.5rem;
       display: inline-block;
@@ -236,7 +236,7 @@ a {
     &:hover {
       transition: all .3s ease-in-out;
       background-color: rgba(100, 180, 255, 0.07);
-      color: #007FFF;
+      color: #de3c69;
     }
 
     &:hover:after {
