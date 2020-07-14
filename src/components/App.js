@@ -8,7 +8,7 @@ import Skills from '../pages/skills.js';
 import Footer from '../components/footer.js';
 import Contact from '../pages/contact.js';
 import Fade from 'react-reveal/Fade';
-import Certifications from '../pages/certifications.js';
+import Blogs from '../pages/Blogs.js';
 
 class App extends Component {
   render() {
