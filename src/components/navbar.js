@@ -53,9 +53,9 @@ class Navbar extends Component {
 
 
 
-                    <button className="resume" target="_blank" rel="noopener noreferrer">
-                      <li> <a className="res" href={Resume} target="_blank" rel="noopener noreferrer"> Resume</a> </li>
-                    </button>
+                  //  <button className="resume" target="_blank" rel="noopener noreferrer">
+                  //    <li> <a className="res" href={Resume} target="_blank" rel="noopener noreferrer"> Resume</a> </li>
+                  //  </button>
                 </Fade>
                 </ul>
             </header>
