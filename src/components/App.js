@@ -38,7 +38,6 @@ class App extends Component {
       <img className="myavatar" src = {avatar} alt="Avatar"/>
       </Fade>
       <About />
-      <Achievements/>
       <Skills />
       <Certifications />
       <Contact/>
