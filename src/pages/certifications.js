@@ -21,7 +21,6 @@ class Certifications extends Component {
 
                                     <Column className="card" flexGrow={1} horizontal='spaced'>
                                         <a className="cert-name" href="https://coursera.org/share/8075cf9cd83b6feea0d7deecad649842" target="_blank" rel="noopener noreferrer" >Front-End Web Development with React</a>
-                                        <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" alt="alternatetext">
                                         <a className="cert-desc" href="https://coursera.org/share/8075cf9cd83b6feea0d7deecad649842">-Hong Kong University of Science and Technology </a>
                                     </Column>
 
