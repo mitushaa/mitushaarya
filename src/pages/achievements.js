@@ -1,5 +1,5 @@
 import React, { Component} from 'react';
-import '../styles/about.scss';
+import '../styles/achievements.scss';
 import me from '../images/me-code-4.png';
 import Fade from 'react-reveal/Fade';
 
