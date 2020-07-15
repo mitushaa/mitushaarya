@@ -3,7 +3,7 @@ import '../styles/achievements.scss';
 import me from '../images/me-code-4.png';
 import Fade from 'react-reveal/Fade';
 
-class About extends Component {
+class Achievements extends Component {
     render() {
     return(
 
