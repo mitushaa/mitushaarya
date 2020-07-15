@@ -4,6 +4,9 @@ import Head from './head.js';
 import Navbar from './navbar.js';
 import avatar from '../images/avataaar.png';
 import About from '../pages/about.js';
+import Achievements from '../pages/achievements.js';
+
+
 import Skills from '../pages/skills.js';
 import Footer from '../components/footer.js';
 import Contact from '../pages/contact.js';
