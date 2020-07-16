@@ -21,7 +21,7 @@ class Certifications extends Component {
 
                                     <Column className="card" flexGrow={1} horizontal='spaced'>
                                         <a className="cert-name" href="https://coursera.org/share/8075cf9cd83b6feea0d7deecad649842" target="_blank" rel="noopener noreferrer" >Front-End Web Development with React</a>
-                                        <a className="image" img src="https://images-na.ssl-images-amazon.com/images/I/51ttX5vtr-L._AC_.jpg" target="_blank" rel="noopener noreferrer" ></a>
+                                        <img src="https://images-na.ssl-images-amazon.com/images/I/51ttX5vtr-L._AC_.jpg" alt="W3Schools.com">
                                         <a className="cert-desc" href="https://coursera.org/share/8075cf9cd83b6feea0d7deecad649842">-Hong Kong University of Science and Technology </a>
                                     </Column>
 
